@@ -1,0 +1,3 @@
+/tmp/tmp.uf09sY7AEC/test/cmake-build-debug-vm1804/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.uf09sY7AEC/test/cmake-build-debug-vm1804/CMakeFiles/test.exe.dir
+/tmp/tmp.uf09sY7AEC/test/cmake-build-debug-vm1804/CMakeFiles/edit_cache.dir
